@@ -1,0 +1,10 @@
+{
+  "suite": "conformance",
+  "case": "importDefer/importDeferNamespace.ts",
+  "flags": [],
+  "entry": [
+    "a.ts",
+    "b.ts"
+  ],
+  "worker_entry": "worker/importDeferNamespace.ts"
+}

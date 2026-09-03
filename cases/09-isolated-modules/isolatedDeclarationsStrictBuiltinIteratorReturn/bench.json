@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "isolatedDeclarationsStrictBuiltinIteratorReturn.ts",
+  "flags": [],
+  "entry": [
+    "isolatedDeclarationsStrictBuiltinIteratorReturn.ts"
+  ],
+  "worker_entry": "worker/isolatedDeclarationsStrictBuiltinIteratorReturn.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "types/literal/templateLiteralTypes1.ts",
+  "flags": [],
+  "entry": [
+    "templateLiteralTypes1.ts"
+  ],
+  "worker_entry": "worker/templateLiteralTypes1.ts"
+}

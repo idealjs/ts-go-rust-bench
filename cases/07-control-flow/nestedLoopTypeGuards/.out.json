@@ -1,0 +1,1 @@
+[{"suffix":"","text":"nestedLoopTypeGuards.ts(5,16): error TS2454: Variable 'a' is used before being assigned.\nnestedLoopTypeGuards.ts(9,24): error TS2454: Variable 'a' is used before being assigned.\nnestedLoopTypeGuards.ts(21,16): error TS2454: Variable 'a' is used before being assigned.\n"}]

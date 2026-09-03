@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "parser/ecmascript5/parserRealSource8.ts",
+  "flags": [],
+  "entry": [
+    "parserRealSource8.ts"
+  ],
+  "worker_entry": "worker/parserRealSource8.ts"
+}

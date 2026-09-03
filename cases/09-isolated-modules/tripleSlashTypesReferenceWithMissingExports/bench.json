@@ -1,0 +1,11 @@
+{
+  "suite": "compiler",
+  "case": "tripleSlashTypesReferenceWithMissingExports.ts",
+  "flags": [],
+  "entry": [
+    "node_modules/pkg/index.d.ts",
+    "node_modules/pkg/package.json",
+    "usage.ts"
+  ],
+  "worker_entry": "worker/tripleSlashTypesReferenceWithMissingExports.ts"
+}

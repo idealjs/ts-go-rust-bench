@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "jsx/jsxs/jsxJsxsCjsTransformChildren.tsx",
+  "flags": [],
+  "entry": [
+    "jsxJsxsCjsTransformChildren.tsx"
+  ],
+  "worker_entry": "worker/jsxJsxsCjsTransformChildren.tsx"
+}

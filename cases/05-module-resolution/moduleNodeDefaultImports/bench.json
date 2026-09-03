@@ -1,0 +1,10 @@
+{
+  "suite": "compiler",
+  "case": "moduleNodeDefaultImports.ts",
+  "flags": [],
+  "entry": [
+    "mod.cts",
+    "b.mts"
+  ],
+  "worker_entry": "worker/moduleNodeDefaultImports.ts"
+}

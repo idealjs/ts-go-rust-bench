@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "types/typeRelationships/typeInference/intraExpressionInferencesJsx.tsx",
+  "flags": [],
+  "entry": [
+    "intraExpressionInferencesJsx.tsx"
+  ],
+  "worker_entry": "worker/intraExpressionInferencesJsx.tsx"
+}

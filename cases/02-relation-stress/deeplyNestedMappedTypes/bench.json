@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "deeplyNestedMappedTypes.ts",
+  "flags": [],
+  "entry": [
+    "deeplyNestedMappedTypes.ts"
+  ],
+  "worker_entry": "worker/deeplyNestedMappedTypes.ts"
+}

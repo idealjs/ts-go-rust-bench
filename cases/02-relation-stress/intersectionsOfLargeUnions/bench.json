@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "intersectionsOfLargeUnions.ts",
+  "flags": [],
+  "entry": [
+    "intersectionsOfLargeUnions.ts"
+  ],
+  "worker_entry": "worker/intersectionsOfLargeUnions.ts"
+}

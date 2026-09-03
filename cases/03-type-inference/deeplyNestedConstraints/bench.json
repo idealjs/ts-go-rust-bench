@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "deeplyNestedConstraints.ts",
+  "flags": [],
+  "entry": [
+    "deeplyNestedConstraints.ts"
+  ],
+  "worker_entry": "worker/deeplyNestedConstraints.ts"
+}

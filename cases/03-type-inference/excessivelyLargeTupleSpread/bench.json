@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "excessivelyLargeTupleSpread.ts",
+  "flags": [],
+  "entry": [
+    "excessivelyLargeTupleSpread.ts"
+  ],
+  "worker_entry": "worker/excessivelyLargeTupleSpread.ts"
+}

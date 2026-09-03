@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "types/typeRelationships/typeInference/unionTypeInference.ts",
+  "flags": [],
+  "entry": [
+    "unionTypeInference.ts"
+  ],
+  "worker_entry": "worker/unionTypeInference.ts"
+}

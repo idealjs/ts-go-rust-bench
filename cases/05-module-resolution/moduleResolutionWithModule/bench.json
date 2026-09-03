@@ -1,0 +1,11 @@
+{
+  "suite": "compiler",
+  "case": "moduleResolutionWithModule.ts",
+  "flags": [],
+  "entry": [
+    "node_modules/pkg/package.json",
+    "node_modules/pkg/entrypoint.d.ts",
+    "index.ts"
+  ],
+  "worker_entry": "worker/moduleResolutionWithModule.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "isolatedModulesSketchyAliasLocalMerge.ts",
+  "flags": [],
+  "entry": [
+    "isolatedModulesSketchyAliasLocalMerge.ts"
+  ],
+  "worker_entry": "worker/isolatedModulesSketchyAliasLocalMerge.ts"
+}

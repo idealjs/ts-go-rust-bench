@@ -1,0 +1,11 @@
+{
+  "suite": "compiler",
+  "case": "importHelpersWithImportOrExportDefault.ts",
+  "flags": [],
+  "entry": [
+    "a.ts",
+    "b.ts",
+    "tslib.d.ts"
+  ],
+  "worker_entry": "worker/importHelpersWithImportOrExportDefault.ts"
+}

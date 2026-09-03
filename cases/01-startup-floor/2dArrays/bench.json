@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "2dArrays.ts",
+  "flags": [],
+  "entry": [
+    "2dArrays.ts"
+  ],
+  "worker_entry": "worker/2dArrays.ts"
+}

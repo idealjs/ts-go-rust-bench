@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "jsxEmptyExpressionNotCountedAsChild.tsx",
+  "flags": [],
+  "entry": [
+    "jsxEmptyExpressionNotCountedAsChild.tsx"
+  ],
+  "worker_entry": "worker/jsxEmptyExpressionNotCountedAsChild.tsx"
+}

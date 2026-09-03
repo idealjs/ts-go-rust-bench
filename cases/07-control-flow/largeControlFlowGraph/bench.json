@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "largeControlFlowGraph.ts",
+  "flags": [],
+  "entry": [
+    "largeControlFlowGraph.ts"
+  ],
+  "worker_entry": "worker/largeControlFlowGraph.ts"
+}

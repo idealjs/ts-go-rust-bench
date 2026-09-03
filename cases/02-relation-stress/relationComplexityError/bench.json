@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "relationComplexityError.ts",
+  "flags": [],
+  "entry": [
+    "relationComplexityError.ts"
+  ],
+  "worker_entry": "worker/relationComplexityError.ts"
+}

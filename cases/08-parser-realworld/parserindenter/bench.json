@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "parser/ecmascript5/RealWorld/parserindenter.ts",
+  "flags": [],
+  "entry": [
+    "parserindenter.ts"
+  ],
+  "worker_entry": "worker/parserindenter.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "deeplyDependentLargeArrayMutation.ts",
+  "flags": [],
+  "entry": [
+    "foo.js"
+  ],
+  "worker_entry": "worker/deeplyDependentLargeArrayMutation.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "complexRecursiveCollections.ts",
+  "flags": [],
+  "entry": [
+    "complexRecursiveCollections.ts"
+  ],
+  "worker_entry": "worker/complexRecursiveCollections.ts"
+}

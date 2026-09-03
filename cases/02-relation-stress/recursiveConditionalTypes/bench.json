@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "recursiveConditionalTypes.ts",
+  "flags": [],
+  "entry": [
+    "recursiveConditionalTypes.ts"
+  ],
+  "worker_entry": "worker/recursiveConditionalTypes.ts"
+}

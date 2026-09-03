@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "conditionalTypeDiscriminatingLargeUnionRegularTypeFetchingSpeedReasonable.ts",
+  "flags": [],
+  "entry": [
+    "conditionalTypeDiscriminatingLargeUnionRegularTypeFetchingSpeedReasonable.ts"
+  ],
+  "worker_entry": "worker/conditionalTypeDiscriminatingLargeUnionRegularTypeFetchingSpeedReasonable.ts"
+}

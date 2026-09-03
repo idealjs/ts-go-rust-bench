@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "classes/classStaticBlock/classStaticBlock24.ts",
+  "flags": [],
+  "entry": [
+    "classStaticBlock24.ts"
+  ],
+  "worker_entry": "worker/classStaticBlock24.ts"
+}

@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "jsx/tsxReactEmit8.tsx",
+  "flags": [],
+  "entry": [
+    "tsxReactEmit8.tsx"
+  ],
+  "worker_entry": "worker/tsxReactEmit8.tsx"
+}

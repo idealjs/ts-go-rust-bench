@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "node/nodeModulesExportsBlocksTypesVersions.ts",
+  "flags": [],
+  "entry": [
+    "nodeModulesExportsBlocksTypesVersions.ts"
+  ],
+  "worker_entry": "worker/nodeModulesExportsBlocksTypesVersions.ts"
+}

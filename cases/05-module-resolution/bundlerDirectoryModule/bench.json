@@ -1,0 +1,9 @@
+{
+  "suite": "conformance",
+  "case": "moduleResolution/bundler/bundlerDirectoryModule.ts",
+  "flags": [],
+  "entry": [
+    "bundlerDirectoryModule.ts"
+  ],
+  "worker_entry": "worker/bundlerDirectoryModule.ts"
+}

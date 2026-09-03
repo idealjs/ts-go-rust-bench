@@ -1,0 +1,9 @@
+{
+  "suite": "compiler",
+  "case": "nestedLoopTypeGuards.ts",
+  "flags": [],
+  "entry": [
+    "nestedLoopTypeGuards.ts"
+  ],
+  "worker_entry": "worker/nestedLoopTypeGuards.ts"
+}
